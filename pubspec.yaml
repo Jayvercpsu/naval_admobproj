@@ -1,0 +1,47 @@
+name: naval_advmobprog
+
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  provider: ^6.1.5
+  flutter_screenutil: ^5.9.3
+  flutter_dotenv: ^6.0.1
+  http: ^1.2.0
+  shared_preferences: ^2.5.3
+
+  # Lab Activity 5 - Firebase
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.1
+
+  # Lab Activity 6 - Firestore (chat)
+  cloud_firestore: ^5.4.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/images/
+    - assets/.env
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
