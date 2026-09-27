@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "848783372016",
+    "project_id": "navaladvmobprog",
+    "storage_bucket": "navaladvmobprog.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848783372016:android:ad89e6d27eba86fee79c35",
+        "android_client_info": {
+          "package_name": "com.example.naval_advmobprog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH1zLqCcG7AG-qSYbc44HmZrxOwEEaFvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
